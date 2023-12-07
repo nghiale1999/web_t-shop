@@ -17,7 +17,7 @@
                         <th scope="col">id</th>
                         <th scope="col">tiêu đề</th>
                         <th scope="col">hình</th>
-                        <th scope="col">nội dung</th>
+                        <th scope="col">nội dung a</th>
                         <th scope="col">xóa</th>
                         <th scope="col">sửa</th>
                     </tr>
